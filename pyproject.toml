@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "heybrochecklog"
-version = "1.4.3"
+version = "1.4.4"
 description = "A python tool for evaluating and working with EAC/XLD rip logs."
 authors = ["lights <lights@tutanota.de>"]
 license = "Apache-2.0"
@@ -18,7 +18,7 @@ heybrochecklog = 'heybrochecklog.__main__:runner'
 
 [tool.poetry.dependencies]
 python = "^3.10"
-cchardet = "^2.1.7"
+faust-cchardet = "^2.1.19"
 chardet = "^5.1.0"
 pprp = "^0.2.7"
 

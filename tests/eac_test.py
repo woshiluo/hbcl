@@ -5,6 +5,16 @@ import pytest
 from heybrochecklog.score import score_log
 
 LOGS = [
+    (
+        'mac-roman-charset.log',
+        {
+            'Audio cache not defeated (-10 points)',
+            'Null samples were not used in CRC calculations (-1 points)',
+            'Gaps were not analyzed and appended (-10 points)',
+            'Could not verify presence of ID3 tags',
+            'No checksum (-15 points)'
+        }
+    ),
     ('perf-hunid.log', set()),
     ('1.3-good.log', set()),
     ('abort.log', {'Combined log'}),

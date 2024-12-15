@@ -1,0 +1,168 @@
+Exact Audio Copy <span class="log1">V1.0 beta 2</span> from <span class="log1">29. April 2011</span>
+
+<span class="good">EAC <span class="log5">extraction logfile from 26. July 2011, 22:45</span></span>
+
+<span class="log4">BUCK-TICK / TABOO</span>
+
+<span class="log5">Used drive  </span>: <span class="badish">HL-DT-STDVD+-RW GH30N   Adapter: 1  ID: 0 (not found in database)</span>
+
+<span class="log5">Read mode               </span>: <span class="good">Secure</span>
+<span class="log5">Utilize accurate stream </span>: <span class="good">Yes</span>
+<span class="log5">Defeat audio cache      </span>: <span class="bad">No</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">No</span>
+
+<span class="log5">Read offset correction                      </span>: <span class="good">102</span>
+<span class="log5">Overread into Lead-In and Lead-Out          </span>: <span class="log4">Yes</span>
+<span class="log5">Fill up missing offset samples with silence </span>: <span class="good">Yes</span>
+<span class="log5">Delete leading and trailing silent blocks   </span>: <span class="good">No</span>
+<span class="log5">Null samples used in CRC calculations       </span>: <span class="bad">No</span>
+<span class="log5">Used interface                              </span>: <span class="log4">Native Win32 interface for Win NT &amp; 2000</span>
+<span class="log5">Gap handling                                </span>: <span class="bad">Not detected, thus appended to previous track</span>
+
+<span class="log5">Used output format </span>: <span class="log4">Internal WAV Routines</span>
+<span class="log5">Sample format      </span>: <span class="log4">44.100 Hz; 16 Bit; Stereo</span>
+
+
+<span class="log4 log5">TOC of the extracted CD</span>
+
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>  <span class="log1">3:01.50</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">13624</span>   
+        <span class="log4">2</span>  <strong>|</strong>  <span class="log1">3:01.50</span> <strong>|</strong>  <span class="log1">4:24.25</span> <strong>|</strong>     <span class="log1">13625</span>    <strong>|</strong>    <span class="log1">33449</span>   
+        <span class="log4">3</span>  <strong>|</strong>  <span class="log1">7:26.00</span> <strong>|</strong>  <span class="log1">4:13.30</span> <strong>|</strong>     <span class="log1">33450</span>    <strong>|</strong>    <span class="log1">52454</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">11:39.30</span> <strong>|</strong>  <span class="log1">3:56.65</span> <strong>|</strong>     <span class="log1">52455</span>    <strong>|</strong>    <span class="log1">70219</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">15:36.20</span> <strong>|</strong>  <span class="log1">4:24.52</span> <strong>|</strong>     <span class="log1">70220</span>    <strong>|</strong>    <span class="log1">90071</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">20:00.72</span> <strong>|</strong>  <span class="log1">4:20.28</span> <strong>|</strong>     <span class="log1">90072</span>    <strong>|</strong>   <span class="log1">109599</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">24:21.25</span> <strong>|</strong>  <span class="log1">5:41.05</span> <strong>|</strong>    <span class="log1">109600</span>    <strong>|</strong>   <span class="log1">135179</span>   
+        <span class="log4">8</span>  <strong>|</strong> <span class="log1">30:02.30</span> <strong>|</strong>  <span class="log1">3:24.47</span> <strong>|</strong>    <span class="log1">135180</span>    <strong>|</strong>   <span class="log1">150526</span>   
+        <span class="log4">9</span>  <strong>|</strong> <span class="log1">33:27.02</span> <strong>|</strong>  <span class="log1">4:02.33</span> <strong>|</strong>    <span class="log1">150527</span>    <strong>|</strong>   <span class="log1">168709</span>   
+       <span class="log4">10</span>  <strong>|</strong> <span class="log1">37:29.35</span> <strong>|</strong>  <span class="log1">5:04.67</span> <strong>|</strong>    <span class="log1">168710</span>    <strong>|</strong>   <span class="log1">191576</span>   
+
+
+<span class="log5">Track  <span class="log4 log1">1</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\EAC\BUCK-TICK\[1989.01.18] BUCK-TICK - TABOO [VDR-1579]\01. ICONOCLASM.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">2.8 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">67012ECC</span></span>
+     <span class="log4">Copy CRC <span class="good">67012ECC</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 2)  [D8B00C8C], AccurateRip returned [8CA570EF]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">2</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\EAC\BUCK-TICK\[1989.01.18] BUCK-TICK - TABOO [VDR-1579]\02. TOKYO.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">3.1 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">78C29BEC</span></span>
+     <span class="log4">Copy CRC <span class="good">78C29BEC</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 2)  [85FE59E3], AccurateRip returned [67774F74]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">3</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\EAC\BUCK-TICK\[1989.01.18] BUCK-TICK - TABOO [VDR-1579]\03. SEX FOR YOU.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">3.5 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">DD0CC00A</span></span>
+     <span class="log4">Copy CRC <span class="good">DD0CC00A</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 2)  [3F2D9DA9], AccurateRip returned [911555B9]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">4</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\EAC\BUCK-TICK\[1989.01.18] BUCK-TICK - TABOO [VDR-1579]\04. EMBRYO.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">99.4 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">3.7 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">2FE4119E</span></span>
+     <span class="log4">Copy CRC <span class="good">2FE4119E</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 2)  [AEA3CD91], AccurateRip returned [ED9A2E65]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">5</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\EAC\BUCK-TICK\[1989.01.18] BUCK-TICK - TABOO [VDR-1579]\05. ÅgJÅh.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">4.0 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">102DCE96</span></span>
+     <span class="log4">Copy CRC <span class="good">102DCE96</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 2)  [88275860], AccurateRip returned [77E846C8]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">6</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\EAC\BUCK-TICK\[1989.01.18] BUCK-TICK - TABOO [VDR-1579]\06. FEAST OF DEMORAL IZATION.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">4.2 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">64331BAF</span></span>
+     <span class="log4">Copy CRC <span class="good">64331BAF</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 2)  [08010154], AccurateRip returned [9E2B7813]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">7</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\EAC\BUCK-TICK\[1989.01.18] BUCK-TICK - TABOO [VDR-1579]\07. ANGELIC CONVERSATION.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">4.5 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">D4DB4423</span></span>
+     <span class="log4">Copy CRC <span class="good">D4DB4423</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [44397326], AccurateRip returned [4FC5467A]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">8</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\EAC\BUCK-TICK\[1989.01.18] BUCK-TICK - TABOO [VDR-1579]\08. SILENT NIGHT.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">4.6 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">BC3D2CFA</span></span>
+     <span class="log4">Copy CRC <span class="good">BC3D2CFA</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [7B8C7BD9], AccurateRip returned [00313B25]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track  <span class="log4 log1">9</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\EAC\BUCK-TICK\[1989.01.18] BUCK-TICK - TABOO [VDR-1579]\09. TABOO.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">4.7 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">1EA44D3F</span></span>
+     <span class="log4">Copy CRC <span class="good">1EA44D3F</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 3)  [282ADF31], AccurateRip returned [2BE62BA6]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+<span class="log5">Track <span class="log4 log1">10</span></span>
+
+     <span class="log4">Filename <span class="log3">C:\EAC\BUCK-TICK\[1989.01.18] BUCK-TICK - TABOO [VDR-1579]\10. JUST ONE MORE KISS.wav</span></span>
+
+     <span class="log4">Peak level <span class="log3">100.0 %</span></span>
+     <span class="log4">Extraction speed <span class="log3">5.0 X</span></span>
+     <span class="log4">Track quality <span class="log3">100.0 %</span></span>
+     <span class="log4">Test CRC <span class="good">C14AC514</span></span>
+     <span class="log4">Copy CRC <span class="good">C14AC514</span></span>
+     <span class="badish">Cannot be verified as accurate (confidence 2)  [BA430F75], AccurateRip returned [23252224]  (AR v2)</span>
+     <span class="good">Copy OK</span>
+
+
+<span class="badish">No tracks could be verified as accurate</span>
+<span class="badish">You may have a different pressing from the one(s) in the database</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
