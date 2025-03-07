@@ -1,0 +1,80 @@
+Exact Audio Copy <span class="log1">V1.0 beta 3</span> from <span class="log1">29. August 2011</span>
+
+<span class="good">Отчёт <span class="log5">EAC об извлечении, выполненном 13. апреля 2014, 16:57</span></span>
+
+<span class="log4">Asia / Aura (2000)</span>
+
+<span class="log5">Дисковод</span>: <span class="good">PLEXTOR CD-R   PX-S88T   Adapter: 2  ID: 0</span>
+
+<span class="log5">Режим чтения                 </span>: <span class="good">Достоверность</span>
+<span class="log5">Использование точного потока </span>: <span class="good">Да</span>
+<span class="log5">Отключение кэша аудио        </span>: <span class="good">Да</span>
+<span class="log5">Использование указателей C2  </span>: <span class="good">Нет</span>
+
+<span class="log5">Коррекция смещения при чтении                     </span>: <span class="good">98</span>
+<span class="log5">Способность читать области Lead-in и Lead-out     </span>: <span class="log4">Нет</span>
+<span class="log5">Заполнение пропущенных сэмплов тишиной            </span>: <span class="good">Да</span>
+<span class="log5">Удаление блоков с тишиной в начале и конце        </span>: <span class="good">Нет</span>
+<span class="log5">При вычислениях CRC использовались нулевые сэмплы </span>: <span class="good">Да</span>
+<span class="log5">Интерфейс                                         </span>: <span class="log4">Встроенный Win32-интерфейс для Win NT/2000</span>
+
+<span class="log5">Выходной формат          </span>: <span class="log4">Пользовательский кодировщик</span>
+<span class="log5">Выбранный битрейт        </span>: <span class="log4">1024 kBit/s</span>
+<span class="log5">Качество                 </span>: <span class="log4">Высокий</span>
+<span class="log5">Добавление ID3-тега      </span>: <span class="good">Нет</span>
+<span class="log5">Утилита сжатия           </span>: <span class="log4">C:\Program Files\Exact Audio Copy\Flac\flac.exe</span>
+<span class="log5">Дополнительные параметры </span>: <span class="log4">-V -8 -T &quot;Date=%year%&quot; -T &quot;Genre=%genre%&quot; %source%</span>
+
+
+<span class="log4 log5">TOC извлечённого CD</span>
+
+<strong>     Трек |   Старт  | Длительность | Начальный сектор | Конечный сектор </strong>
+    <strong>---------------------------------------------------------------------</strong>
+       <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>    <span class="log1">6:00.72</span>   <strong>|</strong>           <span class="log1">0</span>      <strong>|</strong>      <span class="log1">27071</span>      
+       <span class="log4">2</span>  <strong>|</strong>  <span class="log1">6:00.72</span> <strong>|</strong>    <span class="log1">4:48.33</span>   <strong>|</strong>       <span class="log1">27072</span>      <strong>|</strong>      <span class="log1">48704</span>      
+       <span class="log4">3</span>  <strong>|</strong> <span class="log1">10:49.30</span> <strong>|</strong>    <span class="log1">4:47.48</span>   <strong>|</strong>       <span class="log1">48705</span>      <strong>|</strong>      <span class="log1">70277</span>      
+       <span class="log4">4</span>  <strong>|</strong> <span class="log1">15:37.03</span> <strong>|</strong>    <span class="log1">4:58.35</span>   <strong>|</strong>       <span class="log1">70278</span>      <strong>|</strong>      <span class="log1">92662</span>      
+       <span class="log4">5</span>  <strong>|</strong> <span class="log1">20:35.38</span> <strong>|</strong>    <span class="log1">5:23.50</span>   <strong>|</strong>       <span class="log1">92663</span>      <strong>|</strong>     <span class="log1">116937</span>      
+       <span class="log4">6</span>  <strong>|</strong> <span class="log1">25:59.13</span> <strong>|</strong>    <span class="log1">6:41.52</span>   <strong>|</strong>      <span class="log1">116938</span>      <strong>|</strong>     <span class="log1">147064</span>      
+       <span class="log4">7</span>  <strong>|</strong> <span class="log1">32:40.65</span> <strong>|</strong>    <span class="log1">6:25.66</span>   <strong>|</strong>      <span class="log1">147065</span>      <strong>|</strong>     <span class="log1">176005</span>      
+       <span class="log4">8</span>  <strong>|</strong> <span class="log1">39:06.56</span> <strong>|</strong>    <span class="log1">8:12.51</span>   <strong>|</strong>      <span class="log1">176006</span>      <strong>|</strong>     <span class="log1">212956</span>      
+       <span class="log4">9</span>  <strong>|</strong> <span class="log1">47:19.32</span> <strong>|</strong>    <span class="log1">5:46.57</span>   <strong>|</strong>      <span class="log1">212957</span>      <strong>|</strong>     <span class="log1">238963</span>      
+      <span class="log4">10</span>  <strong>|</strong> <span class="log1">53:06.14</span> <strong>|</strong>    <span class="log1">5:21.30</span>   <strong>|</strong>      <span class="log1">238964</span>      <strong>|</strong>     <span class="log1">263068</span>      
+      <span class="log4">11</span>  <strong>|</strong> <span class="log1">58:27.44</span> <strong>|</strong>    <span class="log1">4:45.04</span>   <strong>|</strong>      <span class="log1">263069</span>      <strong>|</strong>     <span class="log1">284447</span>      
+
+
+Ха<span class="log5">рактеристики диапазона извлечения и сообщения об ошибках</span>
+
+<span class="badish">Выбранный диапазон</span>
+
+     <span class="log4">Имя файла <span class="log3">D:\Asia 2000 &#x27;&#x27;Aura&#x27;&#x27;\Asia - Aura (2000).wav</span></span>
+
+     <span class="log4">Пиковый уровень <span class="log3">100.0 %</span></span>
+     <span class="log4">Скорость извлечения <span class="log3">2.4 X</span></span>
+     <span class="log4">Качество диапазона <span class="log3">100.0 %</span></span>
+     <span class="log4">CRC теста <span class="good">BB477AF0</span></span>
+     <span class="log4">CRC копии <span class="good">BB477AF0</span></span>
+     <span class="good">Копирование... OK</span>
+
+<span class="good">Ошибок не произошло</span>
+
+ 
+<span class="log4 log5">AccurateRip: сводка</span>
+ 
+Трек  1  : извлечено точно (доверие 7)  [49B7DEF4]  (AR v2)
+Трек  2  : извлечено точно (доверие 7)  [7B3DFA8D]  (AR v2)
+Трек  3  : извлечено точно (доверие 7)  [B31846D0]  (AR v2)
+Трек  4  : извлечено точно (доверие 7)  [BE8E162E]  (AR v2)
+Трек  5  : извлечено точно (доверие 7)  [9AB22E64]  (AR v2)
+Трек  6  : извлечено точно (доверие 6)  [5D84FB60]  (AR v2)
+Трек  7  : извлечено точно (доверие 7)  [F1C246DB]  (AR v2)
+Трек  8  : извлечено точно (доверие 7)  [DB76B0E6]  (AR v2)
+Трек  9  : извлечено точно (доверие 7)  [D4D722F5]  (AR v2)
+Трек 10  : извлечено точно (доверие 6)  [968E2565]  (AR v2)
+Трек 11  : извлечено точно (доверие 6)  [E0A8BADB]  (AR v2)
+ 
+<span class="good">Все треки извлечены точно</span>
+
+<span class="good">Конец отчёта</span>
+
+==== Контрольная сумма отчёта 98E510F484ACEE262FCA90146981A9CCDAD7531DB5D784B465BAFD7E90D5343F ====

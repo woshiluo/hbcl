@@ -1,0 +1,92 @@
+Exact Audio Copy <span class="log1">V1.0 beta 3</span> from <span class="log1">29. August 2011</span>
+
+<span class="good">Отчёт <span class="log5">EAC об извлечении, выполненном 21. января 2012, 17:16</span></span>
+
+<span class="log4">Asia / Aura</span>
+
+<span class="log5">Дисковод</span>: <span class="good">TSSTcorpCDDVDW TS-L633J   Adapter: 0  ID: 1</span>
+
+<span class="log5">Режим чтения                 </span>: <span class="good">Достоверность</span>
+<span class="log5">Использование точного потока </span>: <span class="good">Да</span>
+<span class="log5">Отключение кэша аудио        </span>: <span class="good">Да</span>
+<span class="log5">Использование указателей C2  </span>: <span class="good">Нет</span>
+
+<span class="log5">Коррекция смещения при чтении                     </span>: <span class="good">6</span>
+<span class="log5">Способность читать области Lead-in и Lead-out     </span>: <span class="log4">Нет</span>
+<span class="log5">Заполнение пропущенных сэмплов тишиной            </span>: <span class="good">Да</span>
+<span class="log5">Удаление блоков с тишиной в начале и конце        </span>: <span class="good">Нет</span>
+<span class="log5">При вычислениях CRC использовались нулевые сэмплы </span>: <span class="good">Да</span>
+<span class="log5">Интерфейс                                         </span>: <span class="log4">Установленный внешний ASPI-интерфейс</span>
+
+<span class="log5">Выходной формат          </span>: <span class="log4">Пользовательский кодировщик</span>
+<span class="log5">Выбранный битрейт        </span>: <span class="log4">128 kBit/s</span>
+<span class="log5">Качество                 </span>: <span class="log4">Высокий</span>
+<span class="log5">Добавление ID3-тега      </span>: <span class="good">Нет</span>
+<span class="log5">Утилита сжатия           </span>: <span class="log4">C:\Program Files\Exact Audio Copy\FLAC\FLAC.EXE</span>
+<span class="log5">Дополнительные параметры </span>: <span class="log4">-6 -V -T &quot;ARTIST=%artist%&quot; -T &quot;TITLE=%title%&quot; -T &quot;ALBUM=%albumtitle%&quot; -T &quot;DATE=%year%&quot; -T &quot;TRACKNUMBER=%tracknr%&quot; -T &quot;GENRE=%genre%&quot; -T &quot;COMMENT=%comment%&quot; -T &quot;BAND=%albuminterpret%&quot; -T &quot;ALBUMARTIST=%albuminterpret%&quot; -T &quot;COMPOSER=%composer%&quot; %haslyrics%--tag-from-file=LYRICS=&quot;%lyricsfile%&quot;%haslyrics% -T &quot;DISCNUMBER=%cdnumber%&quot; -T &quot;TOTALDISCS=%totalcds%&quot; -T &quot;TOTALTRACKS=%numtracks%&quot; %hascover%--picture=&quot;%coverfile%&quot;%hascover% %source% -o %dest%</span>
+
+
+<span class="log4 log5">TOC извлечённого CD</span>
+
+<strong>     Трек |   Старт  | Длительность | Начальный сектор | Конечный сектор </strong>
+    <strong>---------------------------------------------------------------------</strong>
+       <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>    <span class="log1">6:00.72</span>   <strong>|</strong>           <span class="log1">0</span>      <strong>|</strong>      <span class="log1">27071</span>      
+       <span class="log4">2</span>  <strong>|</strong>  <span class="log1">6:00.72</span> <strong>|</strong>    <span class="log1">4:48.33</span>   <strong>|</strong>       <span class="log1">27072</span>      <strong>|</strong>      <span class="log1">48704</span>      
+       <span class="log4">3</span>  <strong>|</strong> <span class="log1">10:49.30</span> <strong>|</strong>    <span class="log1">4:47.48</span>   <strong>|</strong>       <span class="log1">48705</span>      <strong>|</strong>      <span class="log1">70277</span>      
+       <span class="log4">4</span>  <strong>|</strong> <span class="log1">15:37.03</span> <strong>|</strong>    <span class="log1">4:58.35</span>   <strong>|</strong>       <span class="log1">70278</span>      <strong>|</strong>      <span class="log1">92662</span>      
+       <span class="log4">5</span>  <strong>|</strong> <span class="log1">20:35.38</span> <strong>|</strong>    <span class="log1">5:23.50</span>   <strong>|</strong>       <span class="log1">92663</span>      <strong>|</strong>     <span class="log1">116937</span>      
+       <span class="log4">6</span>  <strong>|</strong> <span class="log1">25:59.13</span> <strong>|</strong>    <span class="log1">6:41.52</span>   <strong>|</strong>      <span class="log1">116938</span>      <strong>|</strong>     <span class="log1">147064</span>      
+       <span class="log4">7</span>  <strong>|</strong> <span class="log1">32:40.65</span> <strong>|</strong>    <span class="log1">6:25.66</span>   <strong>|</strong>      <span class="log1">147065</span>      <strong>|</strong>     <span class="log1">176005</span>      
+       <span class="log4">8</span>  <strong>|</strong> <span class="log1">39:06.56</span> <strong>|</strong>    <span class="log1">8:12.51</span>   <strong>|</strong>      <span class="log1">176006</span>      <strong>|</strong>     <span class="log1">212956</span>      
+       <span class="log4">9</span>  <strong>|</strong> <span class="log1">47:19.32</span> <strong>|</strong>    <span class="log1">5:46.57</span>   <strong>|</strong>      <span class="log1">212957</span>      <strong>|</strong>     <span class="log1">238963</span>      
+      <span class="log4">10</span>  <strong>|</strong> <span class="log1">53:06.14</span> <strong>|</strong>    <span class="log1">5:21.30</span>   <strong>|</strong>      <span class="log1">238964</span>      <strong>|</strong>     <span class="log1">263068</span>      
+      <span class="log4">11</span>  <strong>|</strong> <span class="log1">58:27.44</span> <strong>|</strong>    <span class="log1">4:44.67</span>   <strong>|</strong>      <span class="log1">263069</span>      <strong>|</strong>     <span class="log1">284435</span>      
+      <span class="log4">12</span>  <strong>|</strong> <span class="log1">63:12.36</span> <strong>|</strong>    <span class="log1">4:49.64</span>   <strong>|</strong>      <span class="log1">284436</span>      <strong>|</strong>     <span class="log1">306174</span>      
+      <span class="log4">13</span>  <strong>|</strong> <span class="log1">68:02.25</span> <strong>|</strong>    <span class="log1">5:02.01</span>   <strong>|</strong>      <span class="log1">306175</span>      <strong>|</strong>     <span class="log1">328825</span>      
+      <span class="log4">14</span>  <strong>|</strong> <span class="log1">73:04.26</span> <strong>|</strong>    <span class="log1">6:30.40</span>   <strong>|</strong>      <span class="log1">328826</span>      <strong>|</strong>     <span class="log1">358115</span>      
+
+
+Ха<span class="log5">рактеристики диапазона извлечения и сообщения об ошибках</span>
+
+<span class="badish">Выбранный диапазон</span>
+
+     <span class="log4">Имя файла <span class="log3">C:\ASIA AURA\CD1\Asia - Aura.wav</span></span>
+
+     <span class="log4">Пиковый уровень <span class="log3">100.0 %</span></span>
+     <span class="log4">Скорость извлечения <span class="log3">3.5 X</span></span>
+     <span class="log4">Качество диапазона <span class="log3">100.0 %</span></span>
+     <span class="log4">CRC теста <span class="good">DB7E056A</span></span>
+     <span class="log4">CRC копии <span class="good">DB7E056A</span></span>
+     <span class="good">Копирование... OK</span>
+
+<span class="good">Ошибок не произошло</span>
+
+ 
+<span class="log4 log5">AccurateRip: сводка</span>
+ 
+Трек  1  : извлечено точно (доверие 3)  [0F2351CB]  (AR v2)
+Трек  2  : извлечено точно (доверие 3)  [A393C093]  (AR v2)
+Трек  3  : извлечено точно (доверие 3)  [5EC3FCF9]  (AR v2)
+Трек  4  : извлечено точно (доверие 3)  [7F766747]  (AR v2)
+Трек  5  : извлечено точно (доверие 3)  [71BCBFAD]  (AR v2)
+Трек  6  : извлечено точно (доверие 3)  [9F3476D4]  (AR v2)
+Трек  7  : извлечено точно (доверие 3)  [0824FBEC]  (AR v2)
+Трек  8  : извлечено точно (доверие 3)  [DE48306E]  (AR v2)
+Трек  9  : извлечено точно (доверие 3)  [680DBA79]  (AR v2)
+Трек 10  : извлечено точно (доверие 3)  [B7EB6B04]  (AR v2)
+Трек 11  : извлечено точно (доверие 3)  [F5779401]  (AR v2)
+Трек 12  : извлечено точно (доверие 3)  [8B6D1393]  (AR v2)
+Трек 13  : извлечено точно (доверие 3)  [0A3E57D0]  (AR v2)
+Трек 14  : извлечено точно (доверие 3)  [F30A4D76]  (AR v2)
+ 
+<span class="good">Все треки извлечены точно</span>
+
+<span class="good">Конец отчёта</span>
+
+---- CUETools DB Plugin V2.1.3
+
+[CTDB TOCID: 77YrQRH7M6L.4.Iemrf.59L6sTc-] found, Submit result: 77YrQRH7M6L.4.Iemrf.59L6sTc- has been confirmed
+[ffb2c890] (33/33) Accurately ripped
+
+
+==== Контрольная сумма отчёта 5EF62407CFD2C1964204DEB7A0982EC97D57742B7ECB4E4305272FF0587D93A8 ====

@@ -1,0 +1,93 @@
+Exact Audio Copy <span class="log1">V1.3</span> from <span class="log1">2. September 2016</span>
+
+<span class="good">Отчёт <span class="log5">EAC об извлечении, выполненном 12. июня 2020, 10:37</span></span>
+
+<span class="log4">Asia / Progressive Rock Friends</span>
+
+<span class="log5">Дисковод</span>: <span class="badish">HL-DT-STDVD-RAM GSA-H54N   Adapter: 1  ID: 0 (not found in database)</span>
+
+<span class="log5">Режим чтения                 </span>: <span class="good">Достоверность</span>
+<span class="log5">Использование точного потока </span>: <span class="good">Да</span>
+<span class="log5">Отключение кэша аудио        </span>: <span class="good">Да</span>
+<span class="log5">Использование указателей C2  </span>: <span class="good">Нет</span>
+
+<span class="log5">Коррекция смещения при чтении                     </span>: <span class="good">102</span>
+<span class="log5">Способность читать области Lead-in и Lead-out     </span>: <span class="log4">Нет</span>
+<span class="log5">Заполнение пропущенных сэмплов тишиной            </span>: <span class="good">Да</span>
+<span class="log5">Удаление блоков с тишиной в начале и конце        </span>: <span class="good">Нет</span>
+<span class="log5">При вычислениях CRC использовались нулевые сэмплы </span>: <span class="good">Да</span>
+<span class="log5">Интерфейс                                         </span>: <span class="log4">Встроенный Win32-интерфейс для Win NT/2000</span>
+
+<span class="log5">Выходной формат          </span>: <span class="log4">Пользовательский кодировщик</span>
+<span class="log5">Выбранный битрейт        </span>: <span class="log4">896 kBit/s</span>
+<span class="log5">Качество                 </span>: <span class="log4">Высокий</span>
+<span class="log5">Добавление ID3-тега      </span>: <span class="good">Нет</span>
+<span class="log5">Утилита сжатия           </span>: <span class="log4">C:\Program Files\Exact Audio Copy\FLAC\FLAC.EXE</span>
+<span class="log5">Дополнительные параметры </span>: <span class="log4">-6 -V -T &quot;ARTIST=%artist%&quot; -T &quot;TITLE=%title%&quot; -T &quot;ALBUM=%albumtitle%&quot; -T &quot;DATE=%year%&quot; -T &quot;TRACKNUMBER=%tracknr%&quot; -T &quot;GENRE=%genre%&quot; -T &quot;COMMENT=%comment%&quot; -T &quot;BAND=%albuminterpret%&quot; -T &quot;ALBUMARTIST=%albuminterpret%&quot; -T &quot;COMPOSER=%composer%&quot; %haslyrics%--tag-from-file=LYRICS=&quot;%lyricsfile%&quot;%haslyrics% -T &quot;DISCNUMBER=%cdnumber%&quot; -T &quot;TOTALDISCS=%totalcds%&quot; -T &quot;TOTALTRACKS=%numtracks%&quot; %hascover%--picture=&quot;%coverfile%&quot;%hascover% %source% -o %dest%</span>
+
+
+<span class="log4 log5">TOC извлечённого CD</span>
+
+<strong>     Трек |   Старт  | Длительность | Начальный сектор | Конечный сектор </strong>
+    <strong>---------------------------------------------------------------------</strong>
+       <span class="log4">1</span>  <strong>|</strong>  <span class="log1">0:00.00</span> <strong>|</strong>    <span class="log1">5:14.08</span>   <strong>|</strong>           <span class="log1">0</span>      <strong>|</strong>      <span class="log1">23557</span>      
+       <span class="log4">2</span>  <strong>|</strong>  <span class="log1">5:14.08</span> <strong>|</strong>    <span class="log1">4:50.58</span>   <strong>|</strong>       <span class="log1">23558</span>      <strong>|</strong>      <span class="log1">45365</span>      
+       <span class="log4">3</span>  <strong>|</strong> <span class="log1">10:04.66</span> <strong>|</strong>    <span class="log1">6:24.43</span>   <strong>|</strong>       <span class="log1">45366</span>      <strong>|</strong>      <span class="log1">74208</span>      
+       <span class="log4">4</span>  <strong>|</strong> <span class="log1">16:29.34</span> <strong>|</strong>    <span class="log1">5:18.47</span>   <strong>|</strong>       <span class="log1">74209</span>      <strong>|</strong>      <span class="log1">98105</span>      
+       <span class="log4">5</span>  <strong>|</strong> <span class="log1">21:48.06</span> <strong>|</strong>    <span class="log1">5:00.70</span>   <strong>|</strong>       <span class="log1">98106</span>      <strong>|</strong>     <span class="log1">120675</span>      
+       <span class="log4">6</span>  <strong>|</strong> <span class="log1">26:49.01</span> <strong>|</strong>    <span class="log1">5:30.14</span>   <strong>|</strong>      <span class="log1">120676</span>      <strong>|</strong>     <span class="log1">145439</span>      
+       <span class="log4">7</span>  <strong>|</strong> <span class="log1">32:19.15</span> <strong>|</strong>    <span class="log1">6:53.44</span>   <strong>|</strong>      <span class="log1">145440</span>      <strong>|</strong>     <span class="log1">176458</span>      
+       <span class="log4">8</span>  <strong>|</strong> <span class="log1">39:12.59</span> <strong>|</strong>    <span class="log1">3:51.32</span>   <strong>|</strong>      <span class="log1">176459</span>      <strong>|</strong>     <span class="log1">193815</span>      
+       <span class="log4">9</span>  <strong>|</strong> <span class="log1">43:04.16</span> <strong>|</strong>    <span class="log1">4:35.38</span>   <strong>|</strong>      <span class="log1">193816</span>      <strong>|</strong>     <span class="log1">214478</span>      
+      <span class="log4">10</span>  <strong>|</strong> <span class="log1">47:39.54</span> <strong>|</strong>    <span class="log1">6:00.38</span>   <strong>|</strong>      <span class="log1">214479</span>      <strong>|</strong>     <span class="log1">241516</span>      
+      <span class="log4">11</span>  <strong>|</strong> <span class="log1">53:40.17</span> <strong>|</strong>    <span class="log1">2:28.66</span>   <strong>|</strong>      <span class="log1">241517</span>      <strong>|</strong>     <span class="log1">252682</span>      
+      <span class="log4">12</span>  <strong>|</strong> <span class="log1">56:09.08</span> <strong>|</strong>    <span class="log1">6:23.14</span>   <strong>|</strong>      <span class="log1">252683</span>      <strong>|</strong>     <span class="log1">281421</span>      
+      <span class="log4">13</span>  <strong>|</strong> <span class="log1">62:32.22</span> <strong>|</strong>    <span class="log1">6:14.19</span>   <strong>|</strong>      <span class="log1">281422</span>      <strong>|</strong>     <span class="log1">309490</span>      
+      <span class="log4">14</span>  <strong>|</strong> <span class="log1">68:46.41</span> <strong>|</strong>    <span class="log1">3:20.19</span>   <strong>|</strong>      <span class="log1">309491</span>      <strong>|</strong>     <span class="log1">324509</span>      
+
+
+Ха<span class="log5">рактеристики диапазона извлечения и сообщения об ошибках</span>
+
+<span class="badish">Выбранный диапазон</span>
+
+     <span class="log4">Имя файла <span class="log3">D:\Music\Asia - Progressive Rock Friends.wav</span></span>
+
+     <span class="log4">Пиковый уровень <span class="log3">97.7 %</span></span>
+     <span class="log4">Скорость извлечения <span class="log3">3.1 X</span></span>
+     <span class="log4">Качество диапазона <span class="log3">100.0 %</span></span>
+     <span class="log4">CRC теста <span class="good">33C13977</span></span>
+     <span class="log4">CRC копии <span class="good">33C13977</span></span>
+     <span class="good">Копирование... OK</span>
+
+<span class="good">Ошибок не произошло</span>
+
+ 
+<span class="log4 log5">AccurateRip: сводка</span>
+ 
+Трек  1  точность не определена (достоверность 2)  [F4C647DE], AccurateRip вернул [6A05EEBB]  (AR v2)
+Трек  2  точность не определена (достоверность 2)  [59A4AFE1], AccurateRip вернул [318D1549]  (AR v2)
+Трек  3  точность не определена (достоверность 2)  [1E2D3F25], AccurateRip вернул [C187CD9E]  (AR v2)
+Трек  4  точность не определена (достоверность 2)  [8CBB48A6], AccurateRip вернул [7B93D8A8]  (AR v2)
+Трек  5  точность не определена (достоверность 2)  [55B0410B], AccurateRip вернул [B0531782]  (AR v2)
+Трек  6  точность не определена (достоверность 2)  [59B1522C], AccurateRip вернул [794259FB]  (AR v2)
+Трек  7  точность не определена (достоверность 2)  [BE31D750], AccurateRip вернул [D6022324]  (AR v2)
+Трек  8  точность не определена (достоверность 2)  [70237E9D], AccurateRip вернул [0BDCD1A6]  (AR v2)
+Трек  9  точность не определена (достоверность 2)  [1AAD7FB5], AccurateRip вернул [578D1557]  (AR v2)
+Трек 10  точность не определена (достоверность 2)  [74AE39CB], AccurateRip вернул [6B744397]  (AR v2)
+Трек 11  точность не определена (достоверность 2)  [731E4B03], AccurateRip вернул [C305B18B]  (AR v2)
+Трек 12  точность не определена (достоверность 2)  [53A55A08], AccurateRip вернул [C7F1FD34]  (AR v2)
+Трек 13  точность не определена (достоверность 2)  [B1300CD8], AccurateRip вернул [3DFBDE58]  (AR v2)
+Трек 14  точность не определена (достоверность 2)  [2371FC70], AccurateRip вернул [6D862909]  (AR v2)
+ 
+<span class="badish">Ни один трек не прошёл проверки на точность</span>
+<span class="badish">В вашей базе может быть иной вариант штамповки диска</span>
+
+<span class="good">Конец отчёта</span>
+
+---- CUETools DB Plugin V2.1.6
+
+[CTDB TOCID: HhCGcrARVs9bo.h29iA96hiVmgg-] disk not present in database
+Submit result: HhCGcrARVs9bo.h29iA96hiVmgg- has been uploaded
+
+
+==== Контрольная сумма отчёта BA5E444765E19B38B0EC785A823B3F8D39104761FD04B5EBC75833B807F57B38 ====

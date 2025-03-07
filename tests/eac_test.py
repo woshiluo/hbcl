@@ -116,6 +116,35 @@ LOGS = [
             'Test & Copy was not used (-20 points)',
         },
     ),
+    (
+        'russian1.log',
+        {
+            'Could not verify gap handling',
+            'Range rip detected (-20 points)'
+        }
+    ),
+    (
+        'russian2.log',
+        {
+            'Could not verify gap handling',
+            'Range rip detected (-20 points)',
+            'AccurateRip was not enabled (-5 points)'
+        }
+    ),
+    (
+        'russian3.log',
+        {
+            'Could not verify gap handling',
+            'Range rip detected (-20 points)'
+        }
+    ),
+    (
+        'russian4.log',
+        {
+            'Could not verify gap handling',
+            'Range rip detected (-20 points)'
+        }
+    )
 ]
 
 
