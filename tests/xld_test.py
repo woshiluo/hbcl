@@ -36,6 +36,7 @@ LOGS = [
             'XLD pre-142.2 (no checksum)',
         },
     ),
+    ('100-percent-new.log', { 'Data track detected' })
 ]
 
 

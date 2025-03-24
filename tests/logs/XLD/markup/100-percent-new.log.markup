@@ -1,0 +1,183 @@
+X Lossless Decoder version <span class="log1">20141129</span> (<span class="log1">148.1</span>)
+
+<span class="good">XLD extraction logfile from <span class="log5">2015-03-01 14:53:11 +0900</span></span>
+
+<span class="log4">day after tomorrow / lost angel</span>
+
+<span class="log5">Used drive </span>: <span class="badish">TSSTcorp CDDVDW SE-218CB (revision MF00) (not found in database)</span>
+<span class="log5">Media type </span>: <span class="good">Pressed CD</span>
+
+<span class="log5">Ripper mode             </span>: <span class="good">XLD Secure Ripper</span>
+<span class="log5">Disable audio cache     </span>: <span class="good">OK for the drive with a cache less than 1375KiB</span>
+<span class="log5">Make use of C2 pointers </span>: <span class="good">NO</span>
+<span class="log5">Read offset correction  </span>: <span class="good">6</span>
+<span class="log5">Max retry count         </span>: <span class="log4">100</span>
+<span class="log5">Gap status              </span>: <span class="good">Analyzed, Appended</span>
+
+<span class="log4 log5">TOC of the extracted CD</span>
+<strong>     Track |   Start  |  Length  | Start sector | End sector </strong>
+    <strong>---------------------------------------------------------</strong>
+        <span class="log4">1</span>  <strong>|</strong> <span class="log1">00:00:00</span> <strong>|</strong> <span class="log1">05:15:60</span> <strong>|</strong>         <span class="log1">0</span>    <strong>|</strong>    <span class="log1">23684</span>   
+        <span class="log4">2</span>  <strong>|</strong> <span class="log1">05:15:60</span> <strong>|</strong> <span class="log1">04:20:12</span> <strong>|</strong>     <span class="log1">23685</span>    <strong>|</strong>    <span class="log1">43196</span>   
+        <span class="log4">3</span>  <strong>|</strong> <span class="log1">09:35:72</span> <strong>|</strong> <span class="log1">06:02:28</span> <strong>|</strong>     <span class="log1">43197</span>    <strong>|</strong>    <span class="log1">70374</span>   
+        <span class="log4">4</span>  <strong>|</strong> <span class="log1">15:38:25</span> <strong>|</strong> <span class="log1">05:15:62</span> <strong>|</strong>     <span class="log1">70375</span>    <strong>|</strong>    <span class="log1">94061</span>   
+        <span class="log4">5</span>  <strong>|</strong> <span class="log1">20:54:12</span> <strong>|</strong> <span class="log1">04:20:58</span> <strong>|</strong>     <span class="log1">94062</span>    <strong>|</strong>   <span class="log1">113619</span>   
+        <span class="log4">6</span>  <strong>|</strong> <span class="log1">25:14:70</span> <strong>|</strong> <span class="log1">05:58:47</span> <strong>|</strong>    <span class="log1">113620</span>    <strong>|</strong>   <span class="log1">140516</span>   
+        <span class="log4">7</span>  <strong>|</strong> <span class="log1">33:45:42</span> <strong>|</strong> <span class="log1">40:12:33</span> <strong>|</strong>    <span class="log1">151917</span>    <strong>|</strong>   <span class="log1">332849</span>   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    <strong>------------------------------------------</strong>
+        1  |   -253   |   -259   |      2     
+
+<span class="log4 log5">AccurateRip Summary</span> (DiscID: 000a579d-003c205a-53115607)
+    <span class="good">Track 01 : OK (v1+v2, confidence 2/3, with different offset)</span>
+    <span class="good">Track 02 : OK (v1+v2, confidence 2/3, with different offset)</span>
+    <span class="good">Track 03 : OK (v1+v2, confidence 2/3, with different offset)</span>
+    <span class="badish">Track 04 : NG (total 2 submissions)</span>
+    <span class="badish">Track 05 : NG (total 2 submissions)</span>
+    <span class="badish">Track 06 : NG (total 2 submissions)</span>
+        <span class="badish">-&gt;3 tracks accurately ripped, 3 tracks not</span>
+
+<span class="log5">All Tracks</span>
+    <span class="log4">Album gain               :</span> <span class="log3">-10.79 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">1.000000</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">01</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [V0]/01 lost angel.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [V2]/01 lost angel.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [320]/01 lost angel.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [FLAC]/01 lost angel.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:02:00</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-11.60 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">1.000000</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">E7395AB0</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">E7395AB0</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">8FA32428</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">AF183141 (29661F65 w/correction)</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">BF8EE1F9 (A2BA28B7 w/correction)</span>
+        <span class="good">-&gt;Accurately ripped with different offset (v1+v2, confidence 1+1/3, offset -259)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">02</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [V0]/02 そして僕にできるコト.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [V2]/02 そして僕にできるコト.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [320]/02 そして僕にできるコト.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [FLAC]/02 そして僕にできるコト.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:03:15</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-11.38 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.981354</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">9528C507</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">9528C507</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">5C8B7ECF</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">029184C7 (8E5A2EAF w/correction)</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">1543835C (F6D16C24 w/correction)</span>
+        <span class="good">-&gt;Accurately ripped with different offset (v1+v2, confidence 1+1/3, offset -259)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">03</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [V0]/03 more than a million miles.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [V2]/03 more than a million miles.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [320]/03 more than a million miles.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [FLAC]/03 more than a million miles.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:03:15</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-10.49 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.981354</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">229A0522</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">229A0522</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">53FF78D8</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">4B2A9E23 (E7BB3EE4 w/correction)</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">3BD92B68 (525AA43F w/correction)</span>
+        <span class="good">-&gt;Accurately ripped with different offset (v1+v2, confidence 1+1/3, offset -259)</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">04</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [V0]/04 lost angel -Instrumental-.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [V2]/04 lost angel -Instrumental-.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [320]/04 lost angel -Instrumental-.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [FLAC]/04 lost angel -Instrumental-.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:03:50</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-9.83 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">1.000000</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">C8650128</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">C8650128</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">826CE4B3</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">D259091B</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">A411D2AC</span>
+        <span class="bad">-&gt;Rip may not be accurate (total 2 submissions).</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">05</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [V0]/05 そして僕にできるコト -Instrumental-.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [V2]/05 そして僕にできるコト -Instrumental-.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [320]/05 そして僕にできるコト -Instrumental-.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [FLAC]/05 そして僕にできるコト -Instrumental-.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:03:21</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-9.76 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.981354</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">B1893104</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">B1893104</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">08538D93</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">A5E2E572</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">4A80620A</span>
+        <span class="bad">-&gt;Rip may not be accurate (total 2 submissions).</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="log5">Track <span class="log4 log1">06</span></span>
+    <span class="log4">Filename :</span> <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [V0]/06 more than a million miles -Instrumental-.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [V2]/06 more than a million miles -Instrumental-.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [320]/06 more than a million miles -Instrumental-.mp3</span>
+               <span class="log3">/XLD rips/day after tomorrow - 2004 - lost angel [FLAC]/06 more than a million miles -Instrumental-.flac</span>
+    <span class="log4">Pre-gap length :</span> <span class="log3">00:03:19</span>
+
+    <span class="log4">Track gain               :</span> <span class="log3">-9.15 dB</span>
+    <span class="log4">Peak                     :</span> <span class="log3">0.981354</span>
+    <span class="log4">CRC32 hash (test run)    :</span> <span class="good">2622A30E</span>
+    <span class="log4">CRC32 hash               :</span> <span class="good">2622A30E</span>
+    <span class="log4">CRC32 hash (skip zero)   :</span> <span class="log3">D1B82354</span>
+    <span class="log4">AccurateRip v1 signature :</span> <span class="log3">2FE5C720</span>
+    <span class="log4">AccurateRip v2 signature :</span> <span class="log3">C4585AB0</span>
+        <span class="bad">-&gt;Rip may not be accurate (total 2 submissions).</span>
+    <span class="log4">Statistics</span>
+        <span class="log4">Read error                           :</span> <span class="good">0</span>
+        <span class="log4">Jitter error (maybe fixed)           :</span> <span class="good">0</span>
+        <span class="log4">Retry sector count                   :</span> <span class="good">0</span>
+        <span class="log4">Damaged sector count                 :</span> <span class="good">0</span>
+
+<span class="good">No errors occurred</span>
+
+<span class="good">End of status report</span>
+
+<span class="good">-----BEGIN XLD SIGNATURE-----
+mKslP8nONTI5dtFC5nLN8QuksntAeuMgIpHsj1SFSV7X2ROo3FTSJu4x9RIp18F.rrbFt0PgwjfOlKX7pUBQDt7A2g2AG71ZHn7EiaW
+-----END XLD SIGNATURE-----</span>
