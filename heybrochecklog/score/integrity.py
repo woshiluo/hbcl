@@ -36,8 +36,14 @@ def eac_checksum(text):
         # New signature is the ciphertext.
         signature = cipher.encrypt(cbc_plaintext)
 
+    raw_signature = bytes(signature, "utf-16-le").hex().upper()
+    signature = ""
+
+    for i in range(0, len(raw_signature), 4):
+        signature += raw_signature[i:i + 2]
+
     # Textual signature is just the hex representation
-    return bytes(signature, "utf-16-le").hex().upper().replace('00', '')
+    return signature
 
 
 def ord_or_int(data):
